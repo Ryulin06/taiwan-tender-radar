@@ -4,5 +4,7 @@
   "completed_months": 1,
   "target_start_year": 2024,
   "done": false,
+  "last_failed_month": null,
+  "last_error": null,
   "updated_at": null
 }

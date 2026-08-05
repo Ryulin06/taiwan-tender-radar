@@ -239,13 +239,66 @@ async function run(){
 
   let state=await readJson(BACKFILL_FILE,{version:1,cursor_month:null,completed_months:0,target_start_year:HISTORY_START_YEAR,done:false,updated_at:null});
   if(!state.cursor_month){state.cursor_month=monthKey(monthStart(new Date()));state.target_start_year=HISTORY_START_YEAR;}
-  for(let n=0;n<BACKFILL_MONTHS_PER_RUN&&!state.done;n++){
-    const cursor=new Date(`${state.cursor_month}-01T00:00:00Z`);if(cursor.getUTCFullYear()<HISTORY_START_YEAR){state.done=true;break;}
-    const ms=monthStart(cursor),me=monthEnd(cursor)>new Date()?new Date():monthEnd(cursor);
-    const tb=await mapPool(words,async k=>{try{const r=await fetchKeyword(k,ms,me);await sleep(REQUEST_DELAY_MS);return r;}catch(e){errors.push(`歷史 ${monthKey(ms)} ${k}: ${e.message}`);return[];}});
-    const before=existing.length;existing=mergeRows(existing,dedupe(tb.flat()));added+=Math.max(0,existing.length-before);await writeJson(TENDERS_FILE,existing);
-    state.completed_months=(state.completed_months||0)+1;const next=addMonths(cursor,-1);state.cursor_month=monthKey(next);state.done=next.getUTCFullYear()<HISTORY_START_YEAR;state.updated_at=new Date().toISOString();await writeJson(BACKFILL_FILE,state);
+  for (let n = 0; n < BACKFILL_MONTHS_PER_RUN && !state.done; n++) {
+  const cursor = new Date(`${state.cursor_month}-01T00:00:00Z`);
+
+  if (cursor.getUTCFullYear() < HISTORY_START_YEAR) {
+    state.done = true;
+    break;
   }
+
+  const ms = monthStart(cursor);
+  const me = monthEnd(cursor) > new Date() ? new Date() : monthEnd(cursor);
+  const currentMonth = monthKey(ms);
+
+  let successfulQueries = 0;
+
+  const tb = await mapPool(words, async keyword => {
+    try {
+      const rows = await fetchKeyword(keyword, ms, me);
+      successfulQueries += 1;
+      await sleep(REQUEST_DELAY_MS);
+      return rows;
+    } catch (error) {
+      const cause =
+        error?.cause?.code ||
+        error?.cause?.message ||
+        error?.message ||
+        String(error);
+
+      errors.push(`歷史 ${currentMonth} ${keyword}: ${cause}`);
+      return [];
+    }
+  });
+
+  // 整個月份所有查詢都失敗：保留在目前月份，下次重試
+  if (successfulQueries === 0) {
+    state.last_failed_month = currentMonth;
+    state.last_error = `該月份 ${words.length} 個關鍵字全部查詢失敗`;
+    state.updated_at = new Date().toISOString();
+
+    await writeJson(BACKFILL_FILE, state);
+    break;
+  }
+
+  const before = existing.length;
+  existing = mergeRows(existing, dedupe(tb.flat()));
+  added += Math.max(0, existing.length - before);
+
+  await writeJson(TENDERS_FILE, existing);
+
+  // 至少有一個查詢成功，才推進到上一個月份
+  state.completed_months = (state.completed_months || 0) + 1;
+
+  const next = addMonths(cursor, -1);
+  state.cursor_month = monthKey(next);
+  state.done = next.getUTCFullYear() < HISTORY_START_YEAR;
+  state.last_failed_month = null;
+  state.last_error = null;
+  state.updated_at = new Date().toISOString();
+
+  await writeJson(BACKFILL_FILE, state);
+}
   const result={status:errors.length?(existing.length?'partial':'error'):'ok',started_at:startedAt,finished_at:new Date().toISOString(),count:existing.length,added,message:errors.length?errors.slice(-10).join('\n'):'同步完成',source:'政府電子採購網 + 台灣採購公報網',backfill:state};
   await writeJson(STATUS_FILE,result);console.log(JSON.stringify(result,null,2));
 }

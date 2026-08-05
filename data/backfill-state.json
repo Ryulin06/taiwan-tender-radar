@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "cursor_month": "2026-05",
-  "completed_months": 2,
+  "cursor_month": "2026-06",
+  "completed_months": 1,
   "target_start_year": 2024,
   "done": false,
-  "updated_at": "2026-08-05T15:25:21.437Z"
+  "updated_at": null
 }

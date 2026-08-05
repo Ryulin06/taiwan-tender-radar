@@ -1,0 +1,14 @@
+{
+  "status": "not_started",
+  "started_at": null,
+  "finished_at": null,
+  "count": 0,
+  "message": "尚未執行 GitHub Actions 同步",
+  "source": "政府電子採購網 + 台灣採購公報網",
+  "backfill": {
+    "cursor_month": null,
+    "completed_months": 0,
+    "target_start_year": 2024,
+    "done": false
+  }
+}

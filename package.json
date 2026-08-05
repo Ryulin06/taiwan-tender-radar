@@ -1,0 +1,16 @@
+{
+  "name": "taiwan-tender-radar-github-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-tenders.mjs",
+    "check": "node --check scripts/sync-tenders.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

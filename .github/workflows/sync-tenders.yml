@@ -4,9 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       backfill_months:
-        description: "本次回補幾個歷史月份（0-3）"
+        description: "本次回補幾個歷史月份"
         required: false
         default: "1"
+
   schedule:
     - cron: "17 */3 * * *"
 
@@ -20,44 +21,35 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
-    env:
-      TZ: Asia/Taipei
-      SYNC_LOOKBACK_DAYS: "3"
-      SYNC_MAX_KEYWORDS: "11"
-      SOURCE_REQUEST_DELAY_MS: "500"
-      SOURCE_TIMEOUT_MS: "20000"
-      SOURCE_CONCURRENCY: "2"
-      TAIWANBUYING_ENABLED: "true"
-      HISTORY_START_YEAR: "2024"
-      BACKFILL_MONTHS_PER_RUN: ${{ github.event.inputs.backfill_months || '1' }}
+    timeout-minutes: 30
 
     steps:
-      - name: 下載 Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: 設定 Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: npm
 
-      - name: 安裝套件
+      - name: Install dependencies
         run: npm install
 
-      - name: 同步招標與決標資料
+      - name: Sync tender data
+        env:
+          BACKFILL_MONTHS: ${{ github.event.inputs.backfill_months || '1' }}
         run: npm run sync
 
-      - name: 提交更新資料
+      - name: Commit updated data
         run: |
-          if git diff --quiet -- data/tenders.json data/sync-status.json data/backfill-state.json; then
-            echo "沒有資料異動，不需提交。"
+          if git diff --quiet; then
+            echo "沒有新資料，不需要提交"
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/tenders.json data/sync-status.json data/backfill-state.json
+
+          git add data/tenders.json data/sync-status.json
           git commit -m "自動更新標案資料"
           git push

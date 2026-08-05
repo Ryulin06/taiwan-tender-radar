@@ -254,24 +254,25 @@ async function run(){
   let successfulQueries = 0;
 let failedQueries = 0;
 
-  const tb = await mapPool(words, async keyword => {
-    try {
-      const rows = await fetchKeyword(keyword, ms, me);
-      successfulQueries += 1;
-      await sleep(REQUEST_DELAY_MS);
-      return rows;
-    } catch (error) {
-      failedQueries += 1;
-      const cause =
-        error?.cause?.code ||
-        error?.cause?.message ||
-        error?.message ||
-        String(error);
+const tb = await mapPool(words, async keyword => {
+  try {
+    const rows = await fetchKeyword(keyword, ms, me);
+    successfulQueries += 1;
+    await sleep(REQUEST_DELAY_MS);
+    return rows;
+  } catch (error) {
+    failedQueries += 1;
 
-      errors.push(`歷史 ${currentMonth} ${keyword}: ${cause}`);
-      return [];
-    }
-  });
+    const cause =
+      error?.cause?.code ||
+      error?.cause?.message ||
+      error?.message ||
+      String(error);
+
+    errors.push(`歷史 ${currentMonth} ${keyword}: ${cause}`);
+    return [];
+  }
+});
 
   // 整個月份所有查詢都失敗：保留在目前月份，下次重試
 // 只要任何一個關鍵字失敗，就不要跳過這個月份

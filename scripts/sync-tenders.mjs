@@ -252,6 +252,7 @@ async function run(){
   const currentMonth = monthKey(ms);
 
   let successfulQueries = 0;
+let failedQueries = 0;
 
   const tb = await mapPool(words, async keyword => {
     try {
@@ -260,6 +261,7 @@ async function run(){
       await sleep(REQUEST_DELAY_MS);
       return rows;
     } catch (error) {
+      failedQueries += 1;
       const cause =
         error?.cause?.code ||
         error?.cause?.message ||
@@ -272,14 +274,16 @@ async function run(){
   });
 
   // 整個月份所有查詢都失敗：保留在目前月份，下次重試
-  if (successfulQueries === 0) {
-    state.last_failed_month = currentMonth;
-    state.last_error = `該月份 ${words.length} 個關鍵字全部查詢失敗`;
-    state.updated_at = new Date().toISOString();
+// 只要任何一個關鍵字失敗，就不要跳過這個月份
+if (failedQueries > 0) {
+  state.last_failed_month = currentMonth;
+  state.last_error =
+    `${currentMonth} 有 ${failedQueries}/${words.length} 個關鍵字查詢失敗`;
+  state.updated_at = new Date().toISOString();
 
-    await writeJson(BACKFILL_FILE, state);
-    break;
-  }
+  await writeJson(BACKFILL_FILE, state);
+  break;
+}
 
   const before = existing.length;
   existing = mergeRows(existing, dedupe(tb.flat()));

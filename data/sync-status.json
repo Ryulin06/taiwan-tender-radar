@@ -1,10 +1,10 @@
 {
   "status": "partial",
-  "started_at": "2026-08-05T09:03:49.507Z",
-  "finished_at": "2026-08-05T09:04:46.632Z",
+  "started_at": "2026-08-05T09:10:06.119Z",
+  "finished_at": "2026-08-05T09:11:20.876Z",
   "count": 210,
-  "added": 192,
-  "message": "歷史 2026-08 影片: fetch failed",
+  "added": 0,
+  "message": "歷史 2026-08 數位: fetch failed\n歷史 2026-08 社群: fetch failed\n歷史 2026-08 影片: fetch failed\n歷史 2026-08 拍攝: fetch failed\n歷史 2026-08 FB: fetch failed\n歷史 2026-08 推廣: fetch failed\n歷史 2026-08 宣傳: fetch failed\n歷史 2026-08 活動案: fetch failed\n歷史 2026-08 行銷: fetch failed\n歷史 2026-08 計畫: fetch failed",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
@@ -12,6 +12,6 @@
     "completed_months": 1,
     "target_start_year": 2024,
     "done": false,
-    "updated_at": "2026-08-05T09:04:46.629Z"
+    "updated_at": "2026-08-05T09:11:20.876Z"
   }
 }

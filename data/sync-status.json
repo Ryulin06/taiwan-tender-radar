@@ -1,10 +1,10 @@
 {
-  "status": "partial",
-  "started_at": "2026-08-05T12:25:11.015Z",
-  "finished_at": "2026-08-05T12:26:10.547Z",
+  "status": "ok",
+  "started_at": "2026-08-05T12:27:49.445Z",
+  "finished_at": "2026-08-05T12:28:40.375Z",
   "count": 211,
   "added": 0,
-  "message": "歷史 2026-08 媒體: fetch failed",
+  "message": "同步完成",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
@@ -12,6 +12,6 @@
     "completed_months": 1,
     "target_start_year": 2024,
     "done": false,
-    "updated_at": "2026-08-05T12:26:10.547Z"
+    "updated_at": "2026-08-05T12:28:40.374Z"
   }
 }

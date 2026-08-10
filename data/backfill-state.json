@@ -4,7 +4,7 @@
   "completed_months": 4,
   "target_start_year": 2024,
   "done": false,
-  "last_failed_month": null,
-  "last_error": null,
-  "updated_at": "2026-08-10T05:12:41.659Z"
+  "last_failed_month": "2026-03",
+  "last_error": "2026-03 有 2/11 個關鍵字查詢失敗",
+  "updated_at": "2026-08-10T10:45:58.667Z"
 }

@@ -1,10 +1,10 @@
 {
   "status": "partial",
-  "started_at": "2026-08-21T08:09:00.993Z",
-  "finished_at": "2026-08-21T08:09:55.668Z",
-  "count": 1163,
+  "started_at": "2026-08-21T10:53:25.244Z",
+  "finished_at": "2026-08-21T10:54:19.934Z",
+  "count": 1164,
   "added": 0,
-  "message": "歷史 2026-03 媒體: ECONNRESET",
+  "message": "歷史 2026-03 媒體: ECONNRESET\n歷史 2026-03 活動案: ECONNRESET",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
@@ -13,7 +13,7 @@
     "target_start_year": 2024,
     "done": false,
     "last_failed_month": "2026-03",
-    "last_error": "2026-03 有 1/11 個關鍵字查詢失敗",
-    "updated_at": "2026-08-21T08:09:55.666Z"
+    "last_error": "2026-03 有 2/11 個關鍵字查詢失敗",
+    "updated_at": "2026-08-21T10:54:19.934Z"
   }
 }

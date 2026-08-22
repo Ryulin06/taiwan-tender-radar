@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "started_at": "2026-08-22T03:11:16.064Z",
-  "finished_at": "2026-08-22T03:12:12.494Z",
+  "started_at": "2026-08-22T04:57:12.415Z",
+  "finished_at": "2026-08-22T04:58:06.253Z",
   "count": 1164,
   "added": 0,
   "message": "歷史 2026-03 媒體: ECONNRESET",
@@ -14,6 +14,6 @@
     "done": false,
     "last_failed_month": "2026-03",
     "last_error": "2026-03 有 1/11 個關鍵字查詢失敗",
-    "updated_at": "2026-08-22T03:12:12.493Z"
+    "updated_at": "2026-08-22T04:58:06.252Z"
   }
 }

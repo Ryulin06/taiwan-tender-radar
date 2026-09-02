@@ -1,9 +1,9 @@
 {
   "status": "partial",
-  "started_at": "2026-09-02T18:28:20.091Z",
-  "finished_at": "2026-09-02T18:29:20.720Z",
+  "started_at": "2026-09-02T21:23:04.650Z",
+  "finished_at": "2026-09-02T21:24:07.050Z",
   "count": 1679,
-  "added": 59,
+  "added": 0,
   "message": "歷史 2025-11 媒體: ECONNRESET",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
@@ -14,6 +14,6 @@
     "done": false,
     "last_failed_month": "2025-11",
     "last_error": "2025-11 有 1/11 個關鍵字查詢失敗",
-    "updated_at": "2026-09-02T18:29:20.719Z"
+    "updated_at": "2026-09-02T21:24:07.049Z"
   }
 }

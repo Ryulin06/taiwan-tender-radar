@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "cursor_month": "2025-07",
-  "completed_months": 12,
+  "cursor_month": "2025-06",
+  "completed_months": 13,
   "target_start_year": 2024,
   "done": false,
-  "last_failed_month": "2025-07",
-  "last_error": "2025-07 有 1/11 個關鍵字查詢失敗",
-  "updated_at": "2026-09-18T23:17:49.923Z"
+  "last_failed_month": null,
+  "last_error": null,
+  "updated_at": "2026-09-19T04:35:56.238Z"
 }

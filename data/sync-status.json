@@ -1,10 +1,10 @@
 {
   "status": "partial",
-  "started_at": "2026-09-23T11:31:49.761Z",
-  "finished_at": "2026-09-23T11:32:54.710Z",
-  "count": 2563,
-  "added": 0,
-  "message": "最新決標 活動案: fetch failed\n歷史 2025-06 數位: ETIMEDOUT\n歷史 2025-06 媒體: ETIMEDOUT\n歷史 2025-06 社群: ETIMEDOUT\n歷史 2025-06 影片: ETIMEDOUT\n歷史 2025-06 FB: ETIMEDOUT\n歷史 2025-06 推廣: ETIMEDOUT\n歷史 2025-06 宣傳: ETIMEDOUT\n歷史 2025-06 行銷: ETIMEDOUT\n歷史 2025-06 計畫: ETIMEDOUT",
+  "started_at": "2026-09-23T16:54:55.320Z",
+  "finished_at": "2026-09-23T16:55:52.399Z",
+  "count": 2639,
+  "added": 76,
+  "message": "歷史 2025-06 媒體: ECONNRESET\n歷史 2025-06 FB: ECONNRESET\n歷史 2025-06 行銷: ECONNRESET",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
@@ -13,7 +13,7 @@
     "target_start_year": 2024,
     "done": false,
     "last_failed_month": "2025-06",
-    "last_error": "2025-06 有 9/11 個關鍵字查詢失敗",
-    "updated_at": "2026-09-23T11:32:54.710Z"
+    "last_error": "2025-06 有 3/11 個關鍵字查詢失敗",
+    "updated_at": "2026-09-23T16:55:52.399Z"
   }
 }

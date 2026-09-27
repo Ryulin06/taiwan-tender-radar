@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "started_at": "2026-09-27T05:15:37.825Z",
-  "finished_at": "2026-09-27T05:16:04.491Z",
+  "started_at": "2026-09-27T11:58:59.508Z",
+  "finished_at": "2026-09-27T11:59:25.950Z",
   "count": 2650,
   "added": 0,
   "message": "同步完成",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
-    "cursor_month": "2025-05",
-    "completed_months": 14,
+    "cursor_month": "2025-04",
+    "completed_months": 15,
     "target_start_year": 2024,
     "done": false,
     "last_failed_month": null,
     "last_error": null,
-    "updated_at": "2026-09-27T05:16:04.491Z"
+    "updated_at": "2026-09-27T11:59:25.950Z"
   }
 }

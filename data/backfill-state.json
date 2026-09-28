@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "cursor_month": "2025-01",
-  "completed_months": 18,
+  "cursor_month": "2024-12",
+  "completed_months": 19,
   "target_start_year": 2024,
   "done": false,
   "last_failed_month": null,
   "last_error": null,
-  "updated_at": "2026-09-28T05:20:52.532Z"
+  "updated_at": "2026-09-28T13:50:07.785Z"
 }

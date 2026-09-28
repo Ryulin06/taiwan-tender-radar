@@ -1,19 +1,19 @@
 {
-  "status": "partial",
-  "started_at": "2026-09-28T05:20:07.934Z",
-  "finished_at": "2026-09-28T05:20:52.532Z",
+  "status": "ok",
+  "started_at": "2026-09-28T13:49:40.748Z",
+  "finished_at": "2026-09-28T13:50:07.789Z",
   "count": 2650,
   "added": 0,
-  "message": "最新招標 影片: fetch failed\n最新招標 FB: fetch failed\n最新招標 活動案: fetch failed\n最新招標 計畫: fetch failed\n最新決標 社群: fetch failed\n最新決標 宣傳: fetch failed",
+  "message": "同步完成",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
-    "cursor_month": "2025-01",
-    "completed_months": 18,
+    "cursor_month": "2024-12",
+    "completed_months": 19,
     "target_start_year": 2024,
     "done": false,
     "last_failed_month": null,
     "last_error": null,
-    "updated_at": "2026-09-28T05:20:52.532Z"
+    "updated_at": "2026-09-28T13:50:07.785Z"
   }
 }

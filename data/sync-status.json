@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "started_at": "2026-10-03T16:15:21.886Z",
-  "finished_at": "2026-10-03T16:16:17.134Z",
+  "started_at": "2026-10-03T21:13:26.277Z",
+  "finished_at": "2026-10-03T21:14:28.825Z",
   "count": 2960,
   "added": 0,
   "message": "歷史 2024-10 媒體: ECONNRESET\n歷史 2024-10 FB: ECONNRESET",
@@ -14,6 +14,6 @@
     "done": false,
     "last_failed_month": "2024-10",
     "last_error": "2024-10 有 2/11 個關鍵字查詢失敗",
-    "updated_at": "2026-10-03T16:16:17.133Z"
+    "updated_at": "2026-10-03T21:14:28.824Z"
   }
 }

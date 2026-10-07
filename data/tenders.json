@@ -128,6 +128,22 @@
     "updated_at": "2026-08-31T03:19:23.536Z"
   },
   {
+    "uid": "運動部|115-02-082",
+    "case_no": "115-02-082",
+    "title": "「資訊數位化管理平台無紙化會議WEB系統功能增修暨維護服務案」",
+    "publish_date": "2026-02-08",
+    "deadline": null,
+    "budget": null,
+    "agency": "運動部",
+    "city": "中央／其他",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEzMDAyODE=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:20.794Z"
+  },
+  {
     "uid": "花蓮縣環境保護局|EPB-115-02-11",
     "case_no": "EPB-115-02-11",
     "title": "115年花蓮縣推廣永續淨零空污減排及相關各項防制工作宣導",
@@ -23024,22 +23040,6 @@
     "updated_at": "2026-09-06T15:26:48.703Z"
   },
   {
-    "uid": "屏東縣政府|E1150827-1",
-    "case_no": "E1150827-1",
-    "title": "AI智慧辦公與數位商務應用班",
-    "publish_date": "2026-09-04",
-    "deadline": "2026-09-09",
-    "budget": 900000,
-    "agency": "屏東縣政府",
-    "city": "屏東縣",
-    "winner": "未公告",
-    "award_date": null,
-    "status": "招標公告",
-    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMTc4Mzg=",
-    "source_name": "政府電子採購網",
-    "updated_at": "2026-09-09T04:38:47.541Z"
-  },
-  {
     "uid": "國立政治大學|GA115C040057",
     "case_no": "GA115C040057",
     "title": "HPE VME虛擬平台先導計畫案",
@@ -24685,7 +24685,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjE2Njc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.335Z"
+    "updated_at": "2026-10-07T00:40:08.881Z"
   },
   {
     "uid": "嘉義縣大林鎮三和國民小學|1150723",
@@ -26336,22 +26336,6 @@
     "updated_at": "2026-09-10T11:16:01.240Z"
   },
   {
-    "uid": "桃園市桃園區青溪國民小學|1150027",
-    "case_no": "1150027",
-    "title": "桃園市115年度「生生喝鮮乳數位化平臺維運採購案」",
-    "publish_date": "2026-09-10",
-    "deadline": "2026-09-21",
-    "budget": 5137384,
-    "agency": "桃園市桃園區青溪國民小學",
-    "city": "桃園市",
-    "winner": "未公告",
-    "award_date": null,
-    "status": "招標公告",
-    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjM3NDQ=",
-    "source_name": "政府電子採購網",
-    "updated_at": "2026-09-21T04:52:25.381Z"
-  },
-  {
     "uid": "農業部農業試驗所|1153038",
     "case_no": "1153038",
     "title": "高階解剖顯微鏡含繪圖管及數位影像擷取系統",
@@ -27389,7 +27373,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjU1OTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:17.114Z"
+    "updated_at": "2026-10-07T00:40:12.234Z"
   },
   {
     "uid": "花蓮縣政府|AG1150014692",
@@ -27469,7 +27453,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjU0NDE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.334Z"
+    "updated_at": "2026-10-07T00:40:08.881Z"
   },
   {
     "uid": "國立陽明交通大學|E115075",
@@ -28669,7 +28653,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjY0MTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.057Z"
+    "updated_at": "2026-10-07T00:40:07.917Z"
   },
   {
     "uid": "雲林縣環境保護局|115-084",
@@ -30701,7 +30685,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjg4NDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.334Z"
+    "updated_at": "2026-10-07T00:40:08.881Z"
   },
   {
     "uid": "明新學校財團法人明新科技大學|2115072009",
@@ -32285,7 +32269,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEyOTg5NTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.900Z"
+    "updated_at": "2026-10-07T00:40:11.668Z"
   },
   {
     "uid": "苗栗縣政府|115136B",
@@ -33040,22 +33024,6 @@
     "updated_at": "2026-09-20T11:19:43.276Z"
   },
   {
-    "uid": "國防部軍醫局|NM15026P026",
-    "case_no": "NM15026P026",
-    "title": "高解析全數位彩色超音波掃描儀等2項",
-    "publish_date": "2026-09-18",
-    "deadline": "2026-09-22",
-    "budget": 1087000,
-    "agency": "國防部軍醫局",
-    "city": "中央／其他",
-    "winner": "未公告",
-    "award_date": null,
-    "status": "招標公告",
-    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzE1ODY=",
-    "source_name": "政府電子採購網",
-    "updated_at": "2026-09-22T04:51:49.649Z"
-  },
-  {
     "uid": "臺中市立崇倫國民中學|CLJH11531",
     "case_no": "CLJH11531",
     "title": "崇倫國中第六十四屆畢業照拍攝暨畢業紀念冊採購案",
@@ -33533,7 +33501,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzE5NDA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.334Z"
+    "updated_at": "2026-10-07T00:40:08.880Z"
   },
   {
     "uid": "海洋委員會海洋保育署|115-P-89",
@@ -34144,22 +34112,6 @@
     "updated_at": "2026-09-22T00:05:41.378Z"
   },
   {
-    "uid": "法務部調查局|11580520490",
-    "case_no": "11580520490",
-    "title": "法務部調查局嘉義市調查站電話數位總機交換系統更新",
-    "publish_date": "2026-09-21",
-    "deadline": "2026-09-30",
-    "budget": 1215900,
-    "agency": "法務部調查局",
-    "city": "嘉義市",
-    "winner": "未公告",
-    "award_date": null,
-    "status": "招標公告",
-    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzAzNzI=",
-    "source_name": "政府電子採購網",
-    "updated_at": "2026-09-30T05:29:28.438Z"
-  },
-  {
     "uid": "屏東縣枋山鄉公所|FS-115014",
     "case_no": "FS-115014",
     "title": "屏東縣枋山鄉公所辦公廳舍耐震及整修工程補助計畫、枋山鄉公所無障礙設施工程等4件併案",
@@ -34493,7 +34445,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzIyODg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.333Z"
+    "updated_at": "2026-10-07T00:40:08.880Z"
   },
   {
     "uid": "台灣糖業股份有限公司研究所|11530",
@@ -35085,7 +35037,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMDkxNzk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.900Z"
+    "updated_at": "2026-10-07T00:40:11.667Z"
   },
   {
     "uid": "交通部觀光署|115081622",
@@ -36109,7 +36061,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzQ2ODU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.900Z"
+    "updated_at": "2026-10-07T00:40:11.667Z"
   },
   {
     "uid": "嘉義市政府|115240",
@@ -36941,7 +36893,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzUzNjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.333Z"
+    "updated_at": "2026-10-07T00:40:08.879Z"
   },
   {
     "uid": "高雄市政府都市發展局|S115035",
@@ -37149,7 +37101,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzYxMzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.332Z"
+    "updated_at": "2026-10-07T00:40:08.879Z"
   },
   {
     "uid": "花蓮縣瑞穗鄉公所|1150308",
@@ -37533,7 +37485,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzMwNzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:17.114Z"
+    "updated_at": "2026-10-07T00:40:12.233Z"
   },
   {
     "uid": "臺北市立北安國民中學|11511",
@@ -37614,22 +37566,6 @@
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzU0ODQ=",
     "source_name": "政府電子採購網",
     "updated_at": "2026-10-05T22:00:21.966Z"
-  },
-  {
-    "uid": "國立高雄餐旅大學|NKUHT15203-11508",
-    "case_no": "NKUHT15203-11508",
-    "title": "115年H305語言教室數位學生機台設備一批",
-    "publish_date": "2026-09-24",
-    "deadline": "2026-10-05",
-    "budget": 799000,
-    "agency": "國立高雄餐旅大學",
-    "city": "中央／其他",
-    "winner": "未公告",
-    "award_date": null,
-    "status": "招標公告",
-    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzU2MTU=",
-    "source_name": "政府電子採購網",
-    "updated_at": "2026-10-05T05:35:09.604Z"
   },
   {
     "uid": "臺灣高等檢察署|1150817SC",
@@ -38413,7 +38349,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzYwOTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.332Z"
+    "updated_at": "2026-10-07T00:40:08.879Z"
   },
   {
     "uid": "嘉義縣朴子市朴子國民小學|1150924",
@@ -38557,7 +38493,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzY0MjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.332Z"
+    "updated_at": "2026-10-07T00:40:08.878Z"
   },
   {
     "uid": "國防部軍備局生產製造中心|JK16021P004",
@@ -38669,7 +38605,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzc3NTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.899Z"
+    "updated_at": "2026-10-07T00:40:11.666Z"
   },
   {
     "uid": "客家委員會客家文化發展中心|115063",
@@ -38733,7 +38669,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzcxNTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.899Z"
+    "updated_at": "2026-10-07T00:40:11.666Z"
   },
   {
     "uid": "宜蘭縣政府消防局|11509KH02-1",
@@ -38845,7 +38781,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzc2NjU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.394Z"
+    "updated_at": "2026-10-07T00:40:13.329Z"
   },
   {
     "uid": "新北市政府環境保護局|115-162",
@@ -39293,7 +39229,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzU1NzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:14.602Z"
+    "updated_at": "2026-10-07T00:40:10.177Z"
   },
   {
     "uid": "臺灣高等檢察署|1150825YU",
@@ -39309,7 +39245,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzY5NTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.331Z"
+    "updated_at": "2026-10-07T00:40:08.878Z"
   },
   {
     "uid": "財團法人職業災害預防及重建中心|115-072-C1",
@@ -39341,7 +39277,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzc0MDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:14.601Z"
+    "updated_at": "2026-10-07T00:40:10.177Z"
   },
   {
     "uid": "彰化縣文化局|CHCAB115-149",
@@ -39469,7 +39405,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzc1Njg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.331Z"
+    "updated_at": "2026-10-07T00:40:08.877Z"
   },
   {
     "uid": "基隆市文化觀光局|116KL01A",
@@ -39517,7 +39453,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzYxNzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.394Z"
+    "updated_at": "2026-10-07T00:40:13.330Z"
   },
   {
     "uid": "新北市立三重高級中學|1150030",
@@ -39997,7 +39933,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzc3MjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.330Z"
+    "updated_at": "2026-10-07T00:40:08.877Z"
   },
   {
     "uid": "國家科學及技術委員會中部科學園區管理局|115f501792",
@@ -40061,7 +39997,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzcwMzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.331Z"
+    "updated_at": "2026-10-07T00:40:08.878Z"
   },
   {
     "uid": "國立體育大學|115059",
@@ -40125,7 +40061,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzcwMDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.899Z"
+    "updated_at": "2026-10-07T00:40:11.667Z"
   },
   {
     "uid": "宜蘭縣政府衛生局|1121130-1000-01",
@@ -40189,7 +40125,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgxNjY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.898Z"
+    "updated_at": "2026-10-07T00:40:11.665Z"
   },
   {
     "uid": "臺南市政府觀光旅遊局|1151273622",
@@ -40285,7 +40221,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgxMjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.329Z"
+    "updated_at": "2026-10-07T00:40:08.876Z"
   },
   {
     "uid": "雲林縣環境保護局|115-087",
@@ -40477,7 +40413,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgwMjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.898Z"
+    "updated_at": "2026-10-07T00:40:11.665Z"
   },
   {
     "uid": "屏東縣政府環境保護局|1150930-A",
@@ -40557,7 +40493,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg2OTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.897Z"
+    "updated_at": "2026-10-07T00:40:11.664Z"
   },
   {
     "uid": "苗栗縣頭份市永貞國民小學|YE115007",
@@ -40653,7 +40589,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg0NjU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.898Z"
+    "updated_at": "2026-10-07T00:40:11.665Z"
   },
   {
     "uid": "環境部環境管理署|115EA032",
@@ -40845,7 +40781,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg1ODc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.897Z"
+    "updated_at": "2026-10-07T00:40:11.664Z"
   },
   {
     "uid": "勞動部勞動力發展署桃竹苗分署|116Y005",
@@ -40909,7 +40845,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg3Nzk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.328Z"
+    "updated_at": "2026-10-07T00:40:08.875Z"
   },
   {
     "uid": "苗栗縣泰安鄉公所|115068",
@@ -41037,7 +40973,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgwMzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.330Z"
+    "updated_at": "2026-10-07T00:40:08.877Z"
   },
   {
     "uid": "國立臺南護理專科學校|11528",
@@ -41229,7 +41165,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg4NDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.897Z"
+    "updated_at": "2026-10-07T00:40:11.664Z"
   },
   {
     "uid": "高雄市大樹區大樹國民小學|dsp1150802",
@@ -41421,7 +41357,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg1NjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.329Z"
+    "updated_at": "2026-10-07T00:40:08.875Z"
   },
   {
     "uid": "國立臺北護理健康大學|115050",
@@ -41821,7 +41757,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgwOTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.329Z"
+    "updated_at": "2026-10-07T00:40:08.876Z"
   },
   {
     "uid": "桃園市楊梅區楊梅國民小學|1141002-2",
@@ -41885,7 +41821,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjM0ODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.895Z"
+    "updated_at": "2026-10-07T00:40:11.662Z"
   },
   {
     "uid": "客家委員會客家文化發展中心|115069",
@@ -41917,7 +41853,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAxMTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.326Z"
+    "updated_at": "2026-10-07T00:40:08.873Z"
   },
   {
     "uid": "桃園市政府工務局|1150606-AA1",
@@ -42141,7 +42077,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk4MTM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:17.113Z"
+    "updated_at": "2026-10-07T00:40:12.233Z"
   },
   {
     "uid": "桃園市立觀音高級中等學校|115-G010",
@@ -42365,7 +42301,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzkzNTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.327Z"
+    "updated_at": "2026-10-07T00:40:08.874Z"
   },
   {
     "uid": "新竹縣政府環境保護局|115-67",
@@ -42509,7 +42445,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzkyMjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.393Z"
+    "updated_at": "2026-10-07T00:40:13.329Z"
   },
   {
     "uid": "嘉義市政府環境保護局|1150968",
@@ -42637,7 +42573,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk3NzU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.327Z"
+    "updated_at": "2026-10-07T00:40:08.873Z"
   },
   {
     "uid": "財團法人國際合作發展基金會|ICDF-115-041",
@@ -42781,7 +42717,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAyMTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.391Z"
+    "updated_at": "2026-10-07T00:40:13.327Z"
   },
   {
     "uid": "臺中市政府社會局|1150924300-06",
@@ -42829,7 +42765,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk1Mjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.896Z"
+    "updated_at": "2026-10-07T00:40:11.663Z"
   },
   {
     "uid": "苗栗縣頭份市公所|115b061",
@@ -42845,7 +42781,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAxOTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.392Z"
+    "updated_at": "2026-10-07T00:40:13.327Z"
   },
   {
     "uid": "交通部觀光署|115082721",
@@ -42861,7 +42797,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzg2NTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.896Z"
+    "updated_at": "2026-10-07T00:40:11.663Z"
   },
   {
     "uid": "澎湖縣馬公市中興國民小學|11510",
@@ -42925,7 +42861,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAwNzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.392Z"
+    "updated_at": "2026-10-07T00:40:13.328Z"
   },
   {
     "uid": "臺中市文化資產處|1150016",
@@ -42989,7 +42925,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk4MDA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.326Z"
+    "updated_at": "2026-10-07T00:40:08.873Z"
   },
   {
     "uid": "農業部|115J47",
@@ -43021,7 +42957,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzQ4ODM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.056Z"
+    "updated_at": "2026-10-07T00:40:07.916Z"
   },
   {
     "uid": "臺中市立忠明高級中學|1150908",
@@ -43053,7 +42989,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk2MTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.327Z"
+    "updated_at": "2026-10-07T00:40:08.874Z"
   },
   {
     "uid": "國防部軍醫局|NC15023P027",
@@ -43245,7 +43181,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzcwODU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.328Z"
+    "updated_at": "2026-10-07T00:40:08.875Z"
   },
   {
     "uid": "臺東縣政府|115300920279",
@@ -43277,7 +43213,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzkwMTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.056Z"
+    "updated_at": "2026-10-07T00:40:07.916Z"
   },
   {
     "uid": "農業部林業及自然保育署|FANCAA-1150108",
@@ -43325,7 +43261,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAwMzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.055Z"
+    "updated_at": "2026-10-07T00:40:07.915Z"
   },
   {
     "uid": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院|MMH2026-10009",
@@ -43437,7 +43373,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzk1NjY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.169Z"
+    "updated_at": "2026-10-07T00:40:12.697Z"
   },
   {
     "uid": "高雄市旗山區農會|11500003",
@@ -43453,7 +43389,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAxNzc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.896Z"
+    "updated_at": "2026-10-07T00:40:11.663Z"
   },
   {
     "uid": "法務部矯正署臺東監獄|115-001",
@@ -43485,7 +43421,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAzOTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.895Z"
+    "updated_at": "2026-10-07T00:40:11.662Z"
   },
   {
     "uid": "海洋委員會海洋保育署|115-C-97",
@@ -43517,7 +43453,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzkyOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.328Z"
+    "updated_at": "2026-10-07T00:40:08.874Z"
   },
   {
     "uid": "國立成功大學醫學院附設醫院|Y11532",
@@ -43645,7 +43581,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDAyNjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.895Z"
+    "updated_at": "2026-10-07T00:40:11.662Z"
   },
   {
     "uid": "高雄市政府農業局|KCT004",
@@ -43885,7 +43821,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzcxMDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.326Z"
+    "updated_at": "2026-10-07T00:40:08.872Z"
   },
   {
     "uid": "台灣電力股份有限公司高屏供電區營運處|4901500049",
@@ -43901,7 +43837,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE0Mjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:15.572Z"
+    "updated_at": "2026-10-07T00:40:10.577Z"
   },
   {
     "uid": "花蓮縣吉安鄉化仁國民小學|HZPS1150901",
@@ -43933,7 +43869,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA3MTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.391Z"
+    "updated_at": "2026-10-07T00:40:13.327Z"
   },
   {
     "uid": "國立臺東大學附屬體育高級中學|115A010",
@@ -44173,7 +44109,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE2MzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.323Z"
+    "updated_at": "2026-10-07T00:40:08.869Z"
   },
   {
     "uid": "苗栗縣造橋鄉公所|1150914002",
@@ -44237,7 +44173,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE4MzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.894Z"
+    "updated_at": "2026-10-07T00:40:11.661Z"
   },
   {
     "uid": "雲林縣崙背鄉崙背國民小學|lpes1150902",
@@ -44525,7 +44461,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDEyNTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.055Z"
+    "updated_at": "2026-10-07T00:40:07.915Z"
   },
   {
     "uid": "臺中市政府環境保護局|P1151001069",
@@ -44621,7 +44557,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE4Mjg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.391Z"
+    "updated_at": "2026-10-07T00:40:13.326Z"
   },
   {
     "uid": "臺中市政府經濟發展局|1151001062",
@@ -44669,7 +44605,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE4MzM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.322Z"
+    "updated_at": "2026-10-07T00:40:08.868Z"
   },
   {
     "uid": "高雄市林園區漁會|LSC115002",
@@ -44797,7 +44733,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE3ODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.322Z"
+    "updated_at": "2026-10-07T00:40:08.868Z"
   },
   {
     "uid": "宜蘭縣政府環境保護局|115-09-29",
@@ -44813,7 +44749,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE4NjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.322Z"
+    "updated_at": "2026-10-07T00:40:08.868Z"
   },
   {
     "uid": "農業部林業及自然保育署花蓮分署|115nc011",
@@ -44973,7 +44909,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDEwOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.324Z"
+    "updated_at": "2026-10-07T00:40:08.870Z"
   },
   {
     "uid": "桃園市政府婦幼發展局|1150019",
@@ -45053,7 +44989,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDEyNDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.324Z"
+    "updated_at": "2026-10-07T00:40:08.870Z"
   },
   {
     "uid": "基隆市信義區中興國民小學|JSES115B0032",
@@ -45069,7 +45005,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA3Mjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.324Z"
+    "updated_at": "2026-10-07T00:40:08.871Z"
   },
   {
     "uid": "基隆市政府|115CC01",
@@ -45197,7 +45133,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE5NzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.321Z"
+    "updated_at": "2026-10-07T00:40:08.867Z"
   },
   {
     "uid": "臺南市肉品市場股份有限公司|1150901",
@@ -45261,7 +45197,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA1Nzg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:14.601Z"
+    "updated_at": "2026-10-07T00:40:10.176Z"
   },
   {
     "uid": "新北市立鶯歌高級工商職業學校|yk1150716-1",
@@ -45277,7 +45213,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA1NTM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.325Z"
+    "updated_at": "2026-10-07T00:40:08.872Z"
   },
   {
     "uid": "國家科學及技術委員會新竹科學園區管理局|B1150809",
@@ -45341,7 +45277,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA2NTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.325Z"
+    "updated_at": "2026-10-07T00:40:08.871Z"
   },
   {
     "uid": "嘉義縣議會|1150806",
@@ -45565,7 +45501,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA1NzY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.325Z"
+    "updated_at": "2026-10-07T00:40:08.871Z"
   },
   {
     "uid": "澎湖縣政府環境保護局|EP115049",
@@ -45661,7 +45597,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE1OTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.323Z"
+    "updated_at": "2026-10-07T00:40:08.869Z"
   },
   {
     "uid": "國防部空軍司令部|EV15051P051",
@@ -45789,7 +45725,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMxNjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.318Z"
+    "updated_at": "2026-10-07T00:40:08.864Z"
   },
   {
     "uid": "雲林縣立蔦松藝術高級中等學校|C11503",
@@ -45837,7 +45773,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI1MTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.319Z"
+    "updated_at": "2026-10-07T00:40:08.865Z"
   },
   {
     "uid": "臺灣銀行股份有限公司|133-115-B206",
@@ -45949,7 +45885,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDE1OTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.390Z"
+    "updated_at": "2026-10-07T00:40:13.325Z"
   },
   {
     "uid": "國立臺灣大學醫學院附設醫院新竹臺大分院|FQ2609007",
@@ -45965,7 +45901,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI1MTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.319Z"
+    "updated_at": "2026-10-07T00:40:08.865Z"
   },
   {
     "uid": "花蓮縣政府|SK1150005862",
@@ -45981,7 +45917,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA3OTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.390Z"
+    "updated_at": "2026-10-07T00:40:13.326Z"
   },
   {
     "uid": "交通部觀光署大鵬灣國家風景區管理處|11504010-1",
@@ -46093,7 +46029,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI0Mjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.320Z"
+    "updated_at": "2026-10-07T00:40:08.866Z"
   },
   {
     "uid": "農業部林業及自然保育署宜蘭分署|115-11-28",
@@ -46381,7 +46317,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDIyODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.320Z"
+    "updated_at": "2026-10-07T00:40:08.866Z"
   },
   {
     "uid": "嘉義縣立永慶高級中學|11524",
@@ -46429,7 +46365,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI0Nzc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.320Z"
+    "updated_at": "2026-10-07T00:40:08.866Z"
   },
   {
     "uid": "高雄市政府環境保護局|H16013",
@@ -46477,7 +46413,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMxNTQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.892Z"
+    "updated_at": "2026-10-07T00:40:11.660Z"
   },
   {
     "uid": "高雄市政府環境保護局|H16005",
@@ -46541,7 +46477,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMwNTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.893Z"
+    "updated_at": "2026-10-07T00:40:11.660Z"
   },
   {
     "uid": "雲林縣衛生局|11601",
@@ -46749,7 +46685,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI0NjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.054Z"
+    "updated_at": "2026-10-07T00:40:07.914Z"
   },
   {
     "uid": "宜蘭縣政府|CNSL115032",
@@ -46765,7 +46701,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI3NDY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.893Z"
+    "updated_at": "2026-10-07T00:40:11.661Z"
   },
   {
     "uid": "宜蘭縣政府|SOSL115041",
@@ -46813,7 +46749,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDIzOTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.389Z"
+    "updated_at": "2026-10-07T00:40:13.325Z"
   },
   {
     "uid": "南投縣政府文化局|1152202058E",
@@ -46877,7 +46813,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMxMDQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.389Z"
+    "updated_at": "2026-10-07T00:40:13.325Z"
   },
   {
     "uid": "高雄市政府消防局|115-30",
@@ -46909,7 +46845,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzgwNjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.390Z"
+    "updated_at": "2026-10-07T00:40:13.326Z"
   },
   {
     "uid": "國泰醫療財團法人國泰綜合醫院|CGH115032",
@@ -47005,7 +46941,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI4NzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.893Z"
+    "updated_at": "2026-10-07T00:40:11.660Z"
   },
   {
     "uid": "臺東縣政府|115307210485",
@@ -47037,7 +46973,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI1MDE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.894Z"
+    "updated_at": "2026-10-07T00:40:11.661Z"
   },
   {
     "uid": "嘉義縣竹崎鄉中興國民小學|1150424-1",
@@ -47069,7 +47005,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA2Mzc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.321Z"
+    "updated_at": "2026-10-07T00:40:08.867Z"
   },
   {
     "uid": "臺中市私立僑泰高級中學|1151002-01",
@@ -47085,7 +47021,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI1OTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.319Z"
+    "updated_at": "2026-10-07T00:40:08.865Z"
   },
   {
     "uid": "臺中市梧棲區公所|115-090901",
@@ -47117,7 +47053,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA1ODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.321Z"
+    "updated_at": "2026-10-07T00:40:08.867Z"
   },
   {
     "uid": "雲林縣立蔦松藝術高級中等學校|A11502",
@@ -47197,7 +47133,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM5NTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.890Z"
+    "updated_at": "2026-10-07T00:40:11.658Z"
   },
   {
     "uid": "苗栗縣卓蘭鎮公所|1150916001",
@@ -47309,7 +47245,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyNzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.313Z"
+    "updated_at": "2026-10-07T00:40:08.860Z"
   },
   {
     "uid": "內政部國家公園署墾丁國家公園管理處|493-115-01-205",
@@ -47341,7 +47277,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg2NTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:35.790Z"
+    "updated_at": "2026-10-07T00:40:36.207Z"
   },
   {
     "uid": "衛生福利部食品藥物管理署|115TFDA-D-073",
@@ -47357,7 +47293,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMyOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.892Z"
+    "updated_at": "2026-10-07T00:40:11.659Z"
   },
   {
     "uid": "苗栗縣大湖鄉公所|115B030",
@@ -47469,7 +47405,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI2NTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.318Z"
+    "updated_at": "2026-10-07T00:40:08.864Z"
   },
   {
     "uid": "南投縣政府|1152302003G",
@@ -47485,7 +47421,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyNDU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.890Z"
+    "updated_at": "2026-10-07T00:40:11.657Z"
   },
   {
     "uid": "連江縣消防局|115RM06",
@@ -47501,7 +47437,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTgzMTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:33.042Z"
+    "updated_at": "2026-10-07T00:40:31.589Z"
   },
   {
     "uid": "國立埔里高級工業職業學校|1150209",
@@ -47533,7 +47469,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyODg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.782Z"
+    "updated_at": "2026-10-07T00:40:13.882Z"
   },
   {
     "uid": "高雄市政府消防局|115-C26",
@@ -47581,7 +47517,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyNDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.783Z"
+    "updated_at": "2026-10-07T00:40:13.883Z"
   },
   {
     "uid": "桃園市中壢區信義國民小學|C0206-11512",
@@ -47629,7 +47565,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg1ODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:36.706Z"
+    "updated_at": "2026-10-07T00:40:39.426Z"
   },
   {
     "uid": "新竹市私立光復高級中學|KFSH-1150921",
@@ -47661,7 +47597,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg5NTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:31.822Z"
+    "updated_at": "2026-10-07T00:40:30.681Z"
   },
   {
     "uid": "臺中市南區區公所|115-010",
@@ -47693,7 +47629,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTkwOTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:34.869Z"
+    "updated_at": "2026-10-07T00:40:35.000Z"
   },
   {
     "uid": "臺東縣大武鄉公所|C115003-1",
@@ -47773,7 +47709,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQxNjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.784Z"
+    "updated_at": "2026-10-07T00:40:13.884Z"
   },
   {
     "uid": "國立臺東專科學校|B115008",
@@ -47805,7 +47741,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMzg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.780Z"
+    "updated_at": "2026-10-07T00:40:13.880Z"
   },
   {
     "uid": "彰化縣文化局|CHCAB115-146",
@@ -47821,7 +47757,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM3ODA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.891Z"
+    "updated_at": "2026-10-07T00:40:11.658Z"
   },
   {
     "uid": "數位發展部|ZD115038",
@@ -47837,7 +47773,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg1OTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:28.086Z"
+    "updated_at": "2026-10-07T00:40:25.661Z"
   },
   {
     "uid": "臺南市龍崎區公所|A432",
@@ -47869,7 +47805,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyMzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.389Z"
+    "updated_at": "2026-10-07T00:40:13.324Z"
   },
   {
     "uid": "衛生福利部食品藥物管理署|116TFDA-N-003",
@@ -47949,7 +47885,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM0OTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.053Z"
+    "updated_at": "2026-10-07T00:40:07.913Z"
   },
   {
     "uid": "勞動部勞動力發展署雲嘉南分署|yctrb1150099",
@@ -47965,7 +47901,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMTM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.781Z"
+    "updated_at": "2026-10-07T00:40:13.881Z"
   },
   {
     "uid": "國家發展委員會檔案管理局|116D01",
@@ -47981,7 +47917,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMyMjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.892Z"
+    "updated_at": "2026-10-07T00:40:11.659Z"
   },
   {
     "uid": "國家發展委員會檔案管理局|116C02",
@@ -47997,7 +47933,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMyMTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.318Z"
+    "updated_at": "2026-10-07T00:40:08.864Z"
   },
   {
     "uid": "雲林縣政府|1152E10055",
@@ -48093,7 +48029,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQwODU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.890Z"
+    "updated_at": "2026-10-07T00:40:11.657Z"
   },
   {
     "uid": "臺南市政府環境保護局|11531006",
@@ -48125,7 +48061,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyNjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.314Z"
+    "updated_at": "2026-10-07T00:40:08.860Z"
   },
   {
     "uid": "高雄市政府經濟發展局|115088",
@@ -48141,7 +48077,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMzM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.781Z"
+    "updated_at": "2026-10-07T00:40:13.881Z"
   },
   {
     "uid": "高雄市政府環境保護局|H16004",
@@ -48221,7 +48157,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQwMTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.316Z"
+    "updated_at": "2026-10-07T00:40:08.862Z"
   },
   {
     "uid": "嘉義市立美術館|115A35",
@@ -48237,7 +48173,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTkwNTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:30.539Z"
+    "updated_at": "2026-10-07T00:40:28.458Z"
   },
   {
     "uid": "台灣電力股份有限公司|6021455203",
@@ -48317,7 +48253,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMDY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.782Z"
+    "updated_at": "2026-10-07T00:40:13.882Z"
   },
   {
     "uid": "交通部|115241112B",
@@ -48349,7 +48285,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg1Njk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:33.955Z"
+    "updated_at": "2026-10-07T00:40:32.799Z"
   },
   {
     "uid": "嘉義市志航國民小學|1151006",
@@ -48365,7 +48301,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM4MTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.317Z"
+    "updated_at": "2026-10-07T00:40:08.863Z"
   },
   {
     "uid": "勞動部勞動力發展署中彰投分署|tcnr1150141",
@@ -48445,7 +48381,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.782Z"
+    "updated_at": "2026-10-07T00:40:13.882Z"
   },
   {
     "uid": "雲林縣政府|1152G10032",
@@ -48461,7 +48397,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzMzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.781Z"
+    "updated_at": "2026-10-07T00:40:13.881Z"
   },
   {
     "uid": "屏東縣滿州鄉長樂國民小學|chlps11501",
@@ -48493,7 +48429,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyMzk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.783Z"
+    "updated_at": "2026-10-07T00:40:13.883Z"
   },
   {
     "uid": "苗栗縣竹南鎮大埔國民小學|1150923-10",
@@ -48509,7 +48445,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQxNDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.315Z"
+    "updated_at": "2026-10-07T00:40:08.861Z"
   },
   {
     "uid": "苗栗縣竹南鎮大埔國民小學|1150923-9",
@@ -48525,7 +48461,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQxMDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.315Z"
+    "updated_at": "2026-10-07T00:40:08.862Z"
   },
   {
     "uid": "台灣電力股份有限公司第二核能發電廠|3511500173",
@@ -48557,7 +48493,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM2MjM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.891Z"
+    "updated_at": "2026-10-07T00:40:11.658Z"
   },
   {
     "uid": "國防部|CC15003L050",
@@ -48573,7 +48509,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM1ODQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:17.113Z"
+    "updated_at": "2026-10-07T00:40:12.232Z"
   },
   {
     "uid": "國立歷史博物館|115046",
@@ -48589,7 +48525,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM0MjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:14.601Z"
+    "updated_at": "2026-10-07T00:40:10.176Z"
   },
   {
     "uid": "醫療財團法人徐元智先生醫藥基金會亞東紀念醫院|B115002",
@@ -48621,7 +48557,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTgwMDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:38.984Z"
+    "updated_at": "2026-10-07T00:40:41.633Z"
   },
   {
     "uid": "農業部林業及自然保育署|FANCAA-1150112",
@@ -48669,7 +48605,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQxNTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.784Z"
+    "updated_at": "2026-10-07T00:40:13.884Z"
   },
   {
     "uid": "雲林縣莿桐鄉饒平國民小學|A115002",
@@ -48685,7 +48621,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyMjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.783Z"
+    "updated_at": "2026-10-07T00:40:13.883Z"
   },
   {
     "uid": "新北市政府勞工局|TPLAB115013",
@@ -48733,7 +48669,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM3MjY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.317Z"
+    "updated_at": "2026-10-07T00:40:08.863Z"
   },
   {
     "uid": "彰化縣溪湖鎮公所|115041",
@@ -48781,7 +48717,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA3ODA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.054Z"
+    "updated_at": "2026-10-07T00:40:07.913Z"
   },
   {
     "uid": "嘉義縣民雄鄉民雄國民小學|mhps115010",
@@ -48861,7 +48797,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM5NDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.316Z"
+    "updated_at": "2026-10-07T00:40:08.863Z"
   },
   {
     "uid": "臺中市豐原區富春國民小學|FCPS1150202",
@@ -48893,7 +48829,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQxODM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.314Z"
+    "updated_at": "2026-10-07T00:40:08.861Z"
   },
   {
     "uid": "國立陽明交通大學|G115052",
@@ -48909,7 +48845,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTk4ODE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:29.317Z"
+    "updated_at": "2026-10-07T00:40:26.474Z"
   },
   {
     "uid": "臺中捷運股份有限公司|A11500034",
@@ -48925,7 +48861,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQyMjU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.314Z"
+    "updated_at": "2026-10-07T00:40:08.861Z"
   },
   {
     "uid": "臺中榮民總醫院|TVG116P01",
@@ -48941,7 +48877,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMjQ4ODY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.315Z"
+    "updated_at": "2026-10-07T00:40:08.862Z"
   },
   {
     "uid": "澎湖縣政府|116fu001",
@@ -48973,7 +48909,7 @@
     "status": "決標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTg1MTQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:42.462Z"
+    "updated_at": "2026-10-07T00:40:42.830Z"
   },
   {
     "uid": "基隆市政府|116-015",
@@ -48989,7 +48925,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0Mjc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.758Z"
+    "updated_at": "2026-10-07T00:40:13.858Z"
   },
   {
     "uid": "高雄市小港區公所|115071",
@@ -49005,7 +48941,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2MjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:18.168Z"
+    "updated_at": "2026-10-07T00:40:12.697Z"
   },
   {
     "uid": "桃園市立平興國民中學|11510",
@@ -49021,7 +48957,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2Njk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.769Z"
+    "updated_at": "2026-10-07T00:40:13.869Z"
   },
   {
     "uid": "國立暨南國際大學附屬高級中學|1150923",
@@ -49037,7 +48973,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0NDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.774Z"
+    "updated_at": "2026-10-07T00:40:13.874Z"
   },
   {
     "uid": "新北市政府文化局|115A-151",
@@ -49053,7 +48989,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI0OTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.313Z"
+    "updated_at": "2026-10-07T00:40:08.860Z"
   },
   {
     "uid": "嘉義縣文化觀光局|1150011120",
@@ -49069,7 +49005,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2NDk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.312Z"
+    "updated_at": "2026-10-07T00:40:08.859Z"
   },
   {
     "uid": "客家委員會|115394061",
@@ -49085,7 +49021,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzQ3MTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.889Z"
+    "updated_at": "2026-10-07T00:40:11.657Z"
   },
   {
     "uid": "嘉義縣政府|115FM473",
@@ -49101,7 +49037,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI2NzY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.778Z"
+    "updated_at": "2026-10-07T00:40:13.878Z"
   },
   {
     "uid": "雲林縣立四湖國民中學|1151008",
@@ -49117,7 +49053,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI4MTY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.778Z"
+    "updated_at": "2026-10-07T00:40:13.878Z"
   },
   {
     "uid": "內政部國家公園署墾丁國家公園管理處|525-115-01-882",
@@ -49133,7 +49069,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzNjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.776Z"
+    "updated_at": "2026-10-07T00:40:13.876Z"
   },
   {
     "uid": "宜蘭縣蘇澳鎮公所|1150921",
@@ -49149,7 +49085,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUwMzg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.764Z"
+    "updated_at": "2026-10-07T00:40:13.864Z"
   },
   {
     "uid": "南投縣政府|1150804004E",
@@ -49165,7 +49101,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0NjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.757Z"
+    "updated_at": "2026-10-07T00:40:13.856Z"
   },
   {
     "uid": "衛生福利部|M1503452",
@@ -49181,7 +49117,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2MzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.754Z"
+    "updated_at": "2026-10-07T00:40:13.854Z"
   },
   {
     "uid": "屏東縣政府|E1151006-1",
@@ -49197,7 +49133,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ3NDQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.767Z"
+    "updated_at": "2026-10-07T00:40:13.867Z"
   },
   {
     "uid": "屏東縣三地門鄉公所|A115008-2",
@@ -49213,7 +49149,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2ODg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.768Z"
+    "updated_at": "2026-10-07T00:40:13.868Z"
   },
   {
     "uid": "臺北市芳和實驗中學|FH11517",
@@ -49229,7 +49165,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyMzU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.762Z"
+    "updated_at": "2026-10-07T00:40:13.862Z"
   },
   {
     "uid": "臺東縣政府|115710310463",
@@ -49245,7 +49181,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2Nzc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.752Z"
+    "updated_at": "2026-10-07T00:40:13.852Z"
   },
   {
     "uid": "國立高雄科技大學|1151312001",
@@ -49261,7 +49197,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA5NDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.779Z"
+    "updated_at": "2026-10-07T00:40:13.879Z"
   },
   {
     "uid": "新北市立丹鳳高級中學|11509",
@@ -49277,7 +49213,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyMzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.762Z"
+    "updated_at": "2026-10-07T00:40:13.862Z"
   },
   {
     "uid": "國立馬公高級中學|115-025",
@@ -49293,7 +49229,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ5MzM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.765Z"
+    "updated_at": "2026-10-07T00:40:13.865Z"
   },
   {
     "uid": "新北市板橋區江翠國民小學|11537",
@@ -49309,7 +49245,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1NDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.771Z"
+    "updated_at": "2026-10-07T00:40:13.871Z"
   },
   {
     "uid": "臺北市南港區修德國民小學|115020",
@@ -49325,7 +49261,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NzM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.753Z"
+    "updated_at": "2026-10-07T00:40:13.852Z"
   },
   {
     "uid": "彰化縣政府|115-041-040-231",
@@ -49341,7 +49277,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ5NTY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.312Z"
+    "updated_at": "2026-10-07T00:40:08.858Z"
   },
   {
     "uid": "高雄市政府環境保護局|H15092",
@@ -49357,7 +49293,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2ODA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.769Z"
+    "updated_at": "2026-10-07T00:40:13.869Z"
   },
   {
     "uid": "花蓮縣警察局|HCPB-115091701",
@@ -49373,7 +49309,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2MDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.310Z"
+    "updated_at": "2026-10-07T00:40:08.857Z"
   },
   {
     "uid": "彰化縣芳苑鄉芳苑國民小學|115002",
@@ -49389,7 +49325,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0Mzk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.757Z"
+    "updated_at": "2026-10-07T00:40:13.857Z"
   },
   {
     "uid": "屏東縣屏東地政事務所|115005",
@@ -49405,7 +49341,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2Njg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:15.572Z"
+    "updated_at": "2026-10-07T00:40:10.576Z"
   },
   {
     "uid": "屏東縣政府|C1150922-1",
@@ -49421,7 +49357,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzQ4OTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.764Z"
+    "updated_at": "2026-10-07T00:40:13.864Z"
   },
   {
     "uid": "新竹縣立新豐國民中學|115C004",
@@ -49437,7 +49373,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM5NzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.776Z"
+    "updated_at": "2026-10-07T00:40:13.876Z"
   },
   {
     "uid": "國家運輸安全調查委員會|115022",
@@ -49453,7 +49389,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ3MDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.767Z"
+    "updated_at": "2026-10-07T00:40:13.867Z"
   },
   {
     "uid": "桃園市新屋區啟文國民小學|CW1150032",
@@ -49469,7 +49405,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2OTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.768Z"
+    "updated_at": "2026-10-07T00:40:13.868Z"
   },
   {
     "uid": "高雄市立鼓山高級中學|11517",
@@ -49485,7 +49421,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDI3MDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.778Z"
+    "updated_at": "2026-10-07T00:40:13.878Z"
   },
   {
     "uid": "臺北市立大學|H115K08",
@@ -49501,7 +49437,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyOTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.760Z"
+    "updated_at": "2026-10-07T00:40:13.860Z"
   },
   {
     "uid": "花蓮縣富里鄉公所|fuli115C0A12",
@@ -49517,7 +49453,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyNjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.761Z"
+    "updated_at": "2026-10-07T00:40:13.861Z"
   },
   {
     "uid": "雲林縣斗六市鎮南國民小學|B11514",
@@ -49533,7 +49469,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2MzU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.754Z"
+    "updated_at": "2026-10-07T00:40:13.854Z"
   },
   {
     "uid": "新北市土城區公所|11509B052",
@@ -49549,7 +49485,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDMwNzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.777Z"
+    "updated_at": "2026-10-07T00:40:13.877Z"
   },
   {
     "uid": "南投縣立埔里國民中學|A115213",
@@ -49565,7 +49501,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUxMTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.763Z"
+    "updated_at": "2026-10-07T00:40:13.863Z"
   },
   {
     "uid": "南投縣立埔里國民中學|A115214",
@@ -49581,7 +49517,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0OTM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.773Z"
+    "updated_at": "2026-10-07T00:40:13.873Z"
   },
   {
     "uid": "臺北市數位實驗高級中等學校|11503",
@@ -49597,7 +49533,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1OTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.770Z"
+    "updated_at": "2026-10-07T00:40:13.870Z"
   },
   {
     "uid": "苗栗縣立維真國民中學|11506",
@@ -49613,7 +49549,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ4MTk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.766Z"
+    "updated_at": "2026-10-07T00:40:13.866Z"
   },
   {
     "uid": "新北市立丹鳳高級中學|11514",
@@ -49629,7 +49565,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.758Z"
+    "updated_at": "2026-10-07T00:40:13.858Z"
   },
   {
     "uid": "宜蘭縣南澳鄉東澳國民小學|DAES11510",
@@ -49645,7 +49581,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzODY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.776Z"
+    "updated_at": "2026-10-07T00:40:13.876Z"
   },
   {
     "uid": "臺東縣政府|115180230518",
@@ -49661,7 +49597,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzI1NDY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.758Z"
+    "updated_at": "2026-10-07T00:40:13.858Z"
   },
   {
     "uid": "臺北市政府觀光傳播局|1150074",
@@ -49677,7 +49613,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU3MzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.310Z"
+    "updated_at": "2026-10-07T00:40:08.857Z"
   },
   {
     "uid": "國立臺東專科學校|C1150910",
@@ -49693,7 +49629,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1NzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.770Z"
+    "updated_at": "2026-10-07T00:40:13.870Z"
+  },
+  {
+    "uid": "國立高雄餐旅大學|NKUHT15203-11508",
+    "case_no": "NKUHT15203-11508",
+    "title": "115年H305語言教室數位學生機台設備一批",
+    "publish_date": "2026-10-07",
+    "deadline": "2026-10-05",
+    "budget": 799000,
+    "agency": "國立高雄餐旅大學",
+    "city": "中央／其他",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTk2NTE=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:21.602Z"
   },
   {
     "uid": "國立北門高級農工職業學校|11510001",
@@ -49709,7 +49661,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDA5MDE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.779Z"
+    "updated_at": "2026-10-07T00:40:13.879Z"
   },
   {
     "uid": "雲林縣西螺鎮中山國民小學|C1151012",
@@ -49725,7 +49677,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0MzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.775Z"
+    "updated_at": "2026-10-07T00:40:13.875Z"
   },
   {
     "uid": "臺北市大安區金華國民小學|11514",
@@ -49741,7 +49693,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUwMjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:15.571Z"
+    "updated_at": "2026-10-07T00:40:10.576Z"
   },
   {
     "uid": "國家科學及技術委員會|115s-016",
@@ -49757,7 +49709,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzU2MTQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.767Z"
+    "updated_at": "2026-10-07T00:40:13.867Z"
   },
   {
     "uid": "環境部環境管理署|116EE001",
@@ -49773,7 +49725,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzMTY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.760Z"
+    "updated_at": "2026-10-07T00:40:13.859Z"
   },
   {
     "uid": "衛生福利部食品藥物管理署|116TFDA-N-004",
@@ -49789,7 +49741,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0NDY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.757Z"
+    "updated_at": "2026-10-07T00:40:13.857Z"
   },
   {
     "uid": "勞動部勞動力發展署桃竹苗分署|116Y012",
@@ -49805,7 +49757,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2Mjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.770Z"
+    "updated_at": "2026-10-07T00:40:13.870Z"
   },
   {
     "uid": "雲林縣斗南鎮公所|115057",
@@ -49821,7 +49773,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzQ3NDc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.780Z"
+    "updated_at": "2026-10-07T00:40:13.880Z"
   },
   {
     "uid": "勞動部勞動力發展署桃竹苗分署|116Y002",
@@ -49837,7 +49789,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyODU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.761Z"
+    "updated_at": "2026-10-07T00:40:13.860Z"
   },
   {
     "uid": "苗栗縣政府|115220",
@@ -49853,7 +49805,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2OTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.768Z"
+    "updated_at": "2026-10-07T00:40:13.868Z"
   },
   {
     "uid": "國家發展委員會|ndc115052",
@@ -49869,7 +49821,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2Mjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.887Z"
+    "updated_at": "2026-10-07T00:40:11.654Z"
   },
   {
     "uid": "勞動部勞動力發展署桃竹苗分署|116Y021",
@@ -49885,7 +49837,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ5NzM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.765Z"
+    "updated_at": "2026-10-07T00:40:13.865Z"
   },
   {
     "uid": "新北市政府環境保護局|115-172",
@@ -49901,7 +49853,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0ODk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.888Z"
+    "updated_at": "2026-10-07T00:40:11.654Z"
   },
   {
     "uid": "嘉義市政府環境保護局|1151069",
@@ -49917,7 +49869,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM0NjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.777Z"
+    "updated_at": "2026-10-07T00:40:13.877Z"
   },
   {
     "uid": "嘉義市政府環境保護局|1150966",
@@ -49933,7 +49885,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzMzkxMzY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.780Z"
+    "updated_at": "2026-10-07T00:40:13.880Z"
   },
   {
     "uid": "臺中市政府環境保護局|P1151006071",
@@ -49949,7 +49901,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ5NzU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.765Z"
+    "updated_at": "2026-10-07T00:40:13.865Z"
   },
   {
     "uid": "交通部中央氣象署|115174A",
@@ -49965,7 +49917,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDM5Mzg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.777Z"
+    "updated_at": "2026-10-07T00:40:13.877Z"
   },
   {
     "uid": "新竹市環境保護局|11507089",
@@ -49981,7 +49933,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUxNDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.763Z"
+    "updated_at": "2026-10-07T00:40:13.863Z"
   },
   {
     "uid": "彰化縣環境保護局|1150060494",
@@ -49997,7 +49949,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzMzc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.759Z"
+    "updated_at": "2026-10-07T00:40:13.858Z"
   },
   {
     "uid": "交通部觀光署|115092201",
@@ -50013,7 +49965,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:15.571Z"
+    "updated_at": "2026-10-07T00:40:10.576Z"
   },
   {
     "uid": "雲林縣口湖鄉下崙國民小學|A1150923",
@@ -50029,7 +49981,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyNTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.761Z"
+    "updated_at": "2026-10-07T00:40:13.861Z"
   },
   {
     "uid": "中華民國射擊協會|1150921-01",
@@ -50045,7 +49997,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzMjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.759Z"
+    "updated_at": "2026-10-07T00:40:13.859Z"
   },
   {
     "uid": "臺南市政府工務局|111505032",
@@ -50061,7 +50013,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2MTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.755Z"
+    "updated_at": "2026-10-07T00:40:13.855Z"
   },
   {
     "uid": "立法院|1150800183",
@@ -50077,7 +50029,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1OTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.313Z"
+    "updated_at": "2026-10-07T00:40:08.859Z"
   },
   {
     "uid": "高雄市政府財政局動產質借所|1150901",
@@ -50093,7 +50045,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ4NjE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.052Z"
+    "updated_at": "2026-10-07T00:40:07.912Z"
   },
   {
     "uid": "新竹市東區竹蓮國民小學|JLPS1150801A",
@@ -50109,7 +50061,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0Njc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.756Z"
+    "updated_at": "2026-10-07T00:40:13.856Z"
   },
   {
     "uid": "雲林縣元長鄉公所|114-36-1",
@@ -50125,7 +50077,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0NzU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.774Z"
+    "updated_at": "2026-10-07T00:40:13.874Z"
+  },
+  {
+    "uid": "法務部調查局|11580520490",
+    "case_no": "11580520490",
+    "title": "法務部調查局嘉義市調查站電話數位總機交換系統更新",
+    "publish_date": "2026-10-07",
+    "deadline": "2026-09-30",
+    "budget": 1215900,
+    "agency": "法務部調查局",
+    "city": "嘉義市",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTkyMTA=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:24.851Z"
   },
   {
     "uid": "交通部觀光署花東縱谷國家風景區管理處|A1513-oylm11506",
@@ -50141,7 +50109,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2MDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.888Z"
+    "updated_at": "2026-10-07T00:40:11.655Z"
   },
   {
     "uid": "農業部林業及自然保育署南投分署|115408A12",
@@ -50157,7 +50125,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ4NzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.766Z"
+    "updated_at": "2026-10-07T00:40:13.866Z"
   },
   {
     "uid": "屏東縣琉球鄉公所|115000031",
@@ -50173,7 +50141,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyNDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.761Z"
+    "updated_at": "2026-10-07T00:40:13.861Z"
   },
   {
     "uid": "屏東縣琉球鄉公所|115000030",
@@ -50189,7 +50157,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyMDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.763Z"
+    "updated_at": "2026-10-07T00:40:13.863Z"
   },
   {
     "uid": "屏東縣里港鄉塔樓國民小學|TLPS1151001",
@@ -50205,7 +50173,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU4NzQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.751Z"
+    "updated_at": "2026-10-07T00:40:13.850Z"
   },
   {
     "uid": "桃園市新屋區永安國民小學|1151006",
@@ -50221,7 +50189,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2MzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.769Z"
+    "updated_at": "2026-10-07T00:40:13.869Z"
   },
   {
     "uid": "國立臺東專科學校|B115005",
@@ -50237,7 +50205,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1MDQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.772Z"
+    "updated_at": "2026-10-07T00:40:13.872Z"
   },
   {
     "uid": "宜蘭縣政府|CNCO115031",
@@ -50253,7 +50221,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1MjY=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.772Z"
+    "updated_at": "2026-10-07T00:40:13.872Z"
+  },
+  {
+    "uid": "桃園市桃園區青溪國民小學|1150027",
+    "case_no": "1150027",
+    "title": "桃園市115年度「生生喝鮮乳數位化平臺維運採購案」",
+    "publish_date": "2026-10-07",
+    "deadline": "2026-09-21",
+    "budget": 5137384,
+    "agency": "桃園市桃園區青溪國民小學",
+    "city": "桃園市",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTk0NjM=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:23.230Z"
   },
   {
     "uid": "桃園市龍潭區公所|115B0905",
@@ -50269,7 +50253,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDIyOTM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.889Z"
+    "updated_at": "2026-10-07T00:40:11.656Z"
   },
   {
     "uid": "經濟部水利署南區水資源分署|115-KPRW-L09",
@@ -50285,7 +50269,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ5MjQ=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.766Z"
+    "updated_at": "2026-10-07T00:40:13.866Z"
+  },
+  {
+    "uid": "國防部軍醫局|NM15026P026",
+    "case_no": "NM15026P026",
+    "title": "高解析全數位彩色超音波掃描儀等2項",
+    "publish_date": "2026-10-07",
+    "deadline": "2026-09-22",
+    "budget": 1087000,
+    "agency": "國防部軍醫局",
+    "city": "中央／其他",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEyOTk2NjQ=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:24.044Z"
   },
   {
     "uid": "義大醫療財團法人義大醫院|EDAH-HTSP-115-020",
@@ -50301,7 +50301,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0OTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.773Z"
+    "updated_at": "2026-10-07T00:40:13.873Z"
   },
   {
     "uid": "國立臺灣美術館|115118",
@@ -50317,7 +50317,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NDI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:14.600Z"
+    "updated_at": "2026-10-07T00:40:10.176Z"
   },
   {
     "uid": "國營臺灣鐵路股份有限公司|L0515P1065V",
@@ -50333,7 +50333,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUwOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.764Z"
+    "updated_at": "2026-10-07T00:40:13.864Z"
   },
   {
     "uid": "臺北市立大學|H115W08",
@@ -50349,7 +50349,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0NTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.774Z"
+    "updated_at": "2026-10-07T00:40:13.874Z"
   },
   {
     "uid": "花蓮縣文化局|CU1150009463",
@@ -50365,7 +50365,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzMTI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.760Z"
+    "updated_at": "2026-10-07T00:40:13.860Z"
   },
   {
     "uid": "雲林縣西螺鎮公所|1151023",
@@ -50381,7 +50381,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUzMjk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.759Z"
+    "updated_at": "2026-10-07T00:40:13.859Z"
   },
   {
     "uid": "社團法人新北市醫師公會|NTCMA-1151002",
@@ -50397,7 +50397,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ2NzA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.312Z"
+    "updated_at": "2026-10-07T00:40:08.859Z"
   },
   {
     "uid": "新北市新莊區公所|1150921S1",
@@ -50413,7 +50413,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ4MjA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:17.112Z"
+    "updated_at": "2026-10-07T00:40:12.232Z"
   },
   {
     "uid": "新竹縣新豐鄉公所|HFD115104",
@@ -50429,7 +50429,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQzOTA=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.775Z"
+    "updated_at": "2026-10-07T00:40:13.875Z"
   },
   {
     "uid": "台灣中油股份有限公司|UEB158Q002",
@@ -50445,7 +50445,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUwMTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.764Z"
+    "updated_at": "2026-10-07T00:40:13.864Z"
+  },
+  {
+    "uid": "經濟部|11414002620",
+    "case_no": "11414002620",
+    "title": "經濟部「115年數位應用計畫推動服務案」",
+    "publish_date": "2026-10-07",
+    "deadline": null,
+    "budget": null,
+    "agency": "經濟部",
+    "city": "中央／其他",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEzMDA1NzA=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:19.972Z"
   },
   {
     "uid": "國立屏東科技大學|1151005126",
@@ -50461,7 +50477,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU1NDE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.311Z"
+    "updated_at": "2026-10-07T00:40:08.857Z"
   },
   {
     "uid": "桃園市立永豐高級中等學校|11530",
@@ -50477,7 +50493,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU3MzI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.752Z"
+    "updated_at": "2026-10-07T00:40:13.851Z"
   },
   {
     "uid": "國立清華大學|T-115167",
@@ -50493,7 +50509,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU0NTc=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:13.311Z"
+    "updated_at": "2026-10-07T00:40:08.858Z"
   },
   {
     "uid": "嘉義縣大林鎮公所|115091101",
@@ -50509,7 +50525,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1NTU=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.771Z"
+    "updated_at": "2026-10-07T00:40:13.871Z"
   },
   {
     "uid": "竹塘鄉農會|1150003605",
@@ -50525,7 +50541,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ0Mzg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.775Z"
+    "updated_at": "2026-10-07T00:40:13.875Z"
   },
   {
     "uid": "臺中市政府水利局|11510060228",
@@ -50541,7 +50557,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.753Z"
+    "updated_at": "2026-10-07T00:40:13.853Z"
   },
   {
     "uid": "臺中市政府水利局|11510060227",
@@ -50557,7 +50573,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU3NDM=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.751Z"
+    "updated_at": "2026-10-07T00:40:13.851Z"
   },
   {
     "uid": "雲林縣臺西鄉公所|1151006",
@@ -50573,7 +50589,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUxMTE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:16.888Z"
+    "updated_at": "2026-10-07T00:40:11.655Z"
   },
   {
     "uid": "交通部鐵道局|114DZ030",
@@ -50589,7 +50605,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.754Z"
+    "updated_at": "2026-10-07T00:40:13.853Z"
   },
   {
     "uid": "桃園市政府文化局|1150777",
@@ -50605,7 +50621,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU1NDg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.755Z"
+    "updated_at": "2026-10-07T00:40:13.855Z"
   },
   {
     "uid": "國立臺東專科學校|C115006",
@@ -50621,7 +50637,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU4ODI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.751Z"
+    "updated_at": "2026-10-07T00:40:13.850Z"
   },
   {
     "uid": "南投縣魚池鄉頭社國民小學|115-09",
@@ -50637,7 +50653,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU1MzE=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.756Z"
+    "updated_at": "2026-10-07T00:40:13.855Z"
   },
   {
     "uid": "財團法人職業災害預防及重建中心|115-057-C2",
@@ -50653,7 +50669,23 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDUyMTg=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.762Z"
+    "updated_at": "2026-10-07T00:40:13.862Z"
+  },
+  {
+    "uid": "屏東縣政府|E1150827-1",
+    "case_no": "E1150827-1",
+    "title": "AI智慧辦公與數位商務應用班",
+    "publish_date": "2026-10-07",
+    "deadline": "2026-09-09",
+    "budget": 900000,
+    "agency": "屏東縣政府",
+    "city": "屏東縣",
+    "winner": "未公告",
+    "award_date": null,
+    "status": "決標公告",
+    "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/atm?pk=NzEzMDA1NTM=",
+    "source_name": "政府電子採購網",
+    "updated_at": "2026-10-07T00:40:22.414Z"
   },
   {
     "uid": "花蓮縣光復鄉公所|1150925-A25",
@@ -50669,7 +50701,7 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDQ1Mzk=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.772Z"
+    "updated_at": "2026-10-07T00:40:13.872Z"
   },
   {
     "uid": "花蓮縣光復鄉公所|1151006-A31",
@@ -50685,6 +50717,6 @@
     "status": "招標公告",
     "source_url": "https://web.pcc.gov.tw/prkms/urlSelector/common/tpam?pk=NzEzNDU2NjI=",
     "source_name": "政府電子採購網",
-    "updated_at": "2026-10-06T20:17:19.753Z"
+    "updated_at": "2026-10-07T00:40:13.853Z"
   }
 ]

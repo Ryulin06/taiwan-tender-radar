@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "started_at": "2026-10-29T18:26:45.415Z",
-  "finished_at": "2026-10-29T18:27:15.355Z",
+  "started_at": "2026-10-30T00:57:07.346Z",
+  "finished_at": "2026-10-30T00:57:37.976Z",
   "count": 4033,
   "added": 0,
   "message": "歷史 2024-01 媒體: ETIMEDOUT\n歷史 2024-01 社群: ETIMEDOUT\n歷史 2024-01 影片: ETIMEDOUT\n歷史 2024-01 拍攝: ETIMEDOUT\n歷史 2024-01 FB: ETIMEDOUT\n歷史 2024-01 推廣: ETIMEDOUT\n歷史 2024-01 宣傳: ETIMEDOUT\n歷史 2024-01 活動案: ETIMEDOUT\n歷史 2024-01 行銷: ETIMEDOUT\n歷史 2024-01 計畫: ETIMEDOUT",
@@ -14,6 +14,6 @@
     "done": false,
     "last_failed_month": "2024-01",
     "last_error": "2024-01 有 11/11 個關鍵字查詢失敗",
-    "updated_at": "2026-10-29T18:27:15.355Z"
+    "updated_at": "2026-10-30T00:57:37.975Z"
   }
 }

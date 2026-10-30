@@ -1,10 +1,10 @@
 {
   "status": "partial",
-  "started_at": "2026-10-30T17:59:10.997Z",
-  "finished_at": "2026-10-30T17:59:41.887Z",
+  "started_at": "2026-10-30T22:15:44.011Z",
+  "finished_at": "2026-10-30T22:16:15.566Z",
   "count": 4033,
   "added": 0,
-  "message": "歷史 2024-01 媒體: ETIMEDOUT\n歷史 2024-01 社群: ETIMEDOUT\n歷史 2024-01 影片: ETIMEDOUT\n歷史 2024-01 拍攝: ETIMEDOUT\n歷史 2024-01 FB: ETIMEDOUT\n歷史 2024-01 宣傳: ETIMEDOUT\n歷史 2024-01 推廣: ETIMEDOUT\n歷史 2024-01 活動案: ETIMEDOUT\n歷史 2024-01 行銷: ETIMEDOUT\n歷史 2024-01 計畫: ETIMEDOUT",
+  "message": "歷史 2024-01 媒體: ETIMEDOUT\n歷史 2024-01 社群: ETIMEDOUT\n歷史 2024-01 影片: ETIMEDOUT\n歷史 2024-01 拍攝: ETIMEDOUT\n歷史 2024-01 FB: ETIMEDOUT\n歷史 2024-01 推廣: ETIMEDOUT\n歷史 2024-01 宣傳: ETIMEDOUT\n歷史 2024-01 活動案: ETIMEDOUT\n歷史 2024-01 行銷: ETIMEDOUT\n歷史 2024-01 計畫: ETIMEDOUT",
   "source": "政府電子採購網 + 台灣採購公報網",
   "backfill": {
     "version": 1,
@@ -14,6 +14,6 @@
     "done": false,
     "last_failed_month": "2024-01",
     "last_error": "2024-01 有 11/11 個關鍵字查詢失敗",
-    "updated_at": "2026-10-30T17:59:41.886Z"
+    "updated_at": "2026-10-30T22:16:15.565Z"
   }
 }
